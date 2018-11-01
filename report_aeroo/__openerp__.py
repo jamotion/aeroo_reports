@@ -116,7 +116,7 @@ This module is based on the original work of Simone Orsi (Domsense)
     'author': 'Alistek',
     'website': 'http://www.alistek.com',
     'complexity': "easy",
-    'depends': ['base'],
+    'depends': ['report'],
     'data': [
              "report_view.xml",
              "data/report_aeroo_data.xml", 
